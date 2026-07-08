@@ -1,18 +1,18 @@
-# 📊 Jakarta Public Transportation Dashboard 2026
+# Jakarta Public Transportation Dashboard 2026
 
 Proyek ini adalah portofolio Data Analyst untuk menganalisis data pergerakan, pendapatan, dan efisiensi operasional dari transportasi publik di DKI Jakarta (**TransJakarta, MRT Jakarta, dan LRT Jakarta**) menggunakan data simulasi tahun 2026.
 
-## 🚀 Fitur Utama
+## Fitur Utama
 1. **Generator Data Otomatis**: Menghasilkan data simulasi yang realistis, menirukan pola jam sibuk (*peak hours*), akhir pekan, kapasitas penumpang, serta status keterlambatan operasional.
 2. **Data Cleaning & ETL**: Script ETL sederhana untuk membersihkan dataset mentah dan mengekstrak fitur waktu (hari, jam sibuk, bulan) menggunakan Pandas.
 3. **Interactive Dashboard**: Visualisasi interaktif menggunakan Streamlit dan Plotly untuk memantau KPI utama, pola harian, jam sibuk, status operasional, serta rute terpopuler.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Python** (Pandas, NumPy)
 * **Streamlit** (Web Dashboard Framework)
 * **Plotly** (Interactive Data Visualization)
 
-## 💻 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### 1. Prasyarat
 Pastikan Anda sudah menginstal Python (>= 3.9) dan menginstal dependencies berikut:
@@ -37,7 +37,7 @@ pip install pandas numpy streamlit plotly
    streamlit run app.py
    ```
 
-## 📁 Struktur File
+## Struktur File
 * `generate_data.py`: Script untuk generate data simulasi.
 * `process_data.py`: Script untuk membersihkan dan menyiapkan data.
 * `app.py`: Script aplikasi dashboard Streamlit.
