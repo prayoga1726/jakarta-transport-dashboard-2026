@@ -1,4 +1,4 @@
-# Jakarta Public Transportation Dashboard 2026
+Jakarta Public Transportation Dashboard 2026
 
 Proyek ini adalah portofolio Data Analyst untuk menganalisis data pergerakan, pendapatan, dan efisiensi operasional dari transportasi publik di DKI Jakarta (**TransJakarta, MRT Jakarta, dan LRT Jakarta**) menggunakan data simulasi tahun 2026.
 
