@@ -4,7 +4,7 @@ Proyek ini adalah portofolio Data Analyst untuk menganalisis data pergerakan, pe
 
 <p align="center"> <img width="85%" alt="screencapture_1783522978101" src="https://github.com/user-attachments/assets/70632d1f-64f7-47cd-8a38-a843971eecba" /> <p/>
 
-
+---
 ## Fitur Utama
 1. **Generator Data Otomatis**: Menghasilkan data simulasi yang realistis, menirukan pola jam sibuk (*peak hours*), akhir pekan, kapasitas penumpang, serta status keterlambatan operasional.
 2. **Data Cleaning & ETL**: Script ETL sederhana untuk membersihkan dataset mentah dan mengekstrak fitur waktu (hari, jam sibuk, bulan) menggunakan Pandas.
